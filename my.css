@@ -159,10 +159,12 @@ img {
 
 .h22 {
     font-size: 20px;
+    margin-top: -10px;
 }
 
 .h44 {
     font-size: 15px;
+    margin-top: -5px;
 }
 
 .follow {
