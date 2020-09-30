@@ -14,7 +14,7 @@ input[type=text] {
     height: 55px;
     font-size: 17px;
     color: white;
-    width: 350px;
+    width: 250px;
     border-radius: 6px;
     position: relative;
 }
@@ -35,7 +35,7 @@ img {
 
 .headp {
     color: white;
-    width: 200px;
+    width: 250px;
     margin-top: 65px;
     border-radius: 6px;
     border: 1px solid rgba(255, 255, 255, .1);
@@ -138,18 +138,23 @@ img {
     margin-top: 15px;
 }
 
+.goldie {
+    width: 90%;
+    height: 90%;
+}
+
 .textb {
     border: 5px solid white;
     position: absolute;
-    width: 90%;
-    height: 90%;
+    width: 70%;
+    height: 70%;
     z-index: 5;
-    top: 40px;
-    margin-left: 30px;
+    top: 50px;
+    padding: 50px;
 }
 
 .imgtext {
-    margin-top: 150px;
+    margin-top: -10px;
 }
 
 .follow {
